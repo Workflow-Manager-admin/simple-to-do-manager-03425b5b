@@ -1,0 +1,11 @@
+/* Theme variables for light minimal UI */
+:root {
+  --color-primary: #1976d2;
+  --color-secondary: #424242;
+  --color-accent: #ffab00;
+  --color-bg: #ffffff;
+  --color-bg-light: #f8f9fa;
+  --color-text: #222;
+  --color-text-secondary: #555;
+  --color-complete-bg: #e0e0e0;
+}
